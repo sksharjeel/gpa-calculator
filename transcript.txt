@@ -1,0 +1,11 @@
+Algebra 1, H, 1.0, 94
+English 1, H, 1.0, 91
+Spanish 1, CP, 1.0, 77
+Biology, H, 1.0, 100
+Geometry, H, 1.0, 87
+English 2, H, 1.0, 83
+US History, AP, 1.0, 87
+Algebra 2, H, 1.0, 87
+English 3, H, 1.0, 87
+Computer Science Principles, AP, 1.0, 90
+Government, H, 0.5, 75
